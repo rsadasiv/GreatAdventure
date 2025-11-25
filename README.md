@@ -1,2 +1,2 @@
 # GreatAdventure
-A Silk Road Historical Narrative with ChatGPT
+A Silk Road historical narrative with ChatGPT
