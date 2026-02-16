@@ -70,7 +70,315 @@ I want the AI slop to be good. As good as it can possibly be. I've seen a lot of
 >>> I’m less interested in which one people prefer than in what they notice when they compare them.”
 >>> Then you stop talking.
 </pre>
+<p>
+As with much Chat GPT output, this sounds good, is easy to understand, and wrong.
+</p>
+<pre>
+I wrote a book.
+In ChatGPT it took under an hour.
+I started a new chat, uploaded the style guide and story outline and prompt:
+book mode. generate chapter 8
+ChatGPT thought for under a minute and started streaming back the HTML-formatted book chapter.
+After a quick review I might reprompt:
+think longer. do not forget the footnotes.
+ChatGPT thought for under two minutes, and started streaming back the HTML-formatted book chapter, which does include the footnotes.
+The illustrations took most of the time. I upload the image guide and chapter summary and in about five minutes ChatGPT generates a 4x3 woodcut illustration in PNG format.
+It looks like a book.
+It reads like a book.
+It exists.
+________________________________________
+I wrote a book.
+A work of art is never finished, only abandoned.
+This one took over a decade.
+Reading adventure stories.
+Having an idea.
+Reading secondary source history.
+Reading primary source history.
+Thinking. Research.
+Transcribe. Shape. Write. Edit. Rewrite.
+Abandon. Return. Rewrite again.
+From conception to execution ChatGPT took more like six months than one hour.
+Not because it generates slowly.
+Because prompting it well takes time.
+A lot of the time went into using ChatGPT as an assistant to the human-generated content.
+It was excellent as:
+•	research assistant
+•	copy editor
+•	book editor
+•	critic
+As an insecure author, ChatGPT can be an emotionally supportive editor — endlessly available to read and re-read and provide insightful, supportive feedback and conceptual synthesis.
+Developing system prompts for researcher (research.md), travel editor (travel.md), and book editor (editor.md) were valuable investments in productivity.
+Implementing the suggestions took time.
+We even built rules:
 
+Modes
+•	NO REWRITE → Only critique and suggest changes in comments/bullets. Do not output a full rewritten version.
+There were fundamental disagreements about tonal shift, reader expectation, sexual content, adversarial output (the “don’t kiss my ass” directive).
+Prompting ChatGPT as a generator took much more time than ChatGPT actually generating.
+ChatGPT is bad at following explicit directions.
+I wasted time giving it increasingly explicit direction.
+ChatGPT is bad at managing the context window.
+I wasted time adding more reprompts into the context window instead of restarting.
+ChatGPT is bad at self-awareness.
+I wasted time asking ChatGPT how to improve the ChatGPT system prompt, and then letting ChatGPT implement the suggestions.
+Developing the outline and managing the context was the best way to improve the generation. Much of the benefit came from removing tropes from the context and adding a clean narrative arc to the metadata.
+Directives moved to constraints.
+SystemPrompt-Final.
+Chapters-Final.
+It became less about typing words and more about shaping the system that produced them.
+</pre>
+<pre>
+________________________________________
+The Big Pattern
+Across every chapter:
+Version A = Bold, collage-driven, first-person Harald, swaggering, intercuts primary sources, high energy, tonally unstable.
+Version B = Controlled, third-person, integrated research, thematically cohesive, emotionally grounded, publishable.
+Almost every critique reaches the same conclusion:
+Version B is the stronger novel.
+Version A is the more electrifying experiment.
+________________________________________
+What Version A Consistently Does
+🔥 Strengths
+1.	Charismatic Voice
+Harald’s first-person swagger is memorable and quotable.
+2.	Primary Source Energy
+Heimskringla. Anglo-Saxon Chronicle. Psellos. Rus’ Chronicle. Edda.
+Intellectual texture. Historiographic tension.
+3.	Cinematic Voltage
+Ambushes. Blinding. Bath murder. Greek fire. Stamford Bridge. Doom.
+4.	Adaptation Potential
+Metal. Ragnar energy. Season finale material.
+❌ Recurring Problems
+•	Tonal whiplash
+•	Emotional thinness
+•	Structural fragmentation
+•	Historical flattening
+________________________________________
+What Version B Consistently Does
+🏛 Strengths
+•	Cohesion
+•	Thematic control
+•	Political realism
+•	Emotional restraint
+•	Publishability
+❌ Recurring Critiques
+•	Less distinctive voice
+•	Emotional distance
+•	Occasional academic weight
+•	Safer formally
+________________________________________
+Reader Responses
+Reader Type	Usually Prefers	Why
+History Nerd	Version B	Better integration
+Vikings Fan	Version A	Swagger, myth, chaos
+Literary Reader	Version B	Tonal discipline
+Casual Reader	Version B	Clarity
+Streaming Exec	A’s energy / B’s structure	
+________________________________________
+The Experiment
+Both these books tell the same story.
+Can you tell the difference?
+Which one do you prefer?
+Why — in the comments.
+I wrote the best version of this book I could as a human.
+Then I tried, in good faith, to produce the best version a machine could write from the same material.
+I am less interested in which one people prefer
+than in what they notice when they compare them.
+
+</pre>
+
+<pre>
+    
+# The Big Pattern
+
+Across every chapter:
+
+* **Version A = Bold, collage-driven, first-person Harald, swaggering, intercuts primary sources, high energy, tonally unstable.**
+* **Version B = Controlled, third-person, integrated research, thematically cohesive, emotionally grounded, publishable.**
+
+Almost every critique reaches the same conclusion:
+
+> **Version B is the stronger novel.
+> Version A is the more electrifying experiment.**
+
+---
+
+# What Version A Consistently Does
+
+### 🔥 Strengths
+
+1. **Charismatic Voice**
+   Harald’s first-person swagger is memorable and quotable.
+   Readers (especially Vikings fans) find him alive and dangerous.
+
+2. **Primary Source Energy**
+   Direct inclusion of:
+
+   * Heimskringla
+   * Anglo-Saxon Chronicle
+   * Psellos
+   * Rus’ Chronicle
+   * Edda
+     creates intellectual texture and historiographic tension.
+
+3. **Cinematic Voltage**
+   Big moments pop:
+
+   * Ambushes
+   * Blinding
+   * Bath murder
+   * Greek fire
+   * Stamford Bridge
+   * Mythic doom
+
+4. **Adaptation Potential**
+   Frequently described as:
+
+   * “Metal”
+   * “Ragnar energy”
+   * “Season finale material”
+
+---
+
+### ❌ Recurring Problems
+
+1. **Tonal Whiplash**
+
+   * Modern slang (“Tbh,” “psychedelic Woodstock”)
+   * Meta humor
+   * Sexual bravado
+     repeatedly undercut historical gravity.
+
+2. **Emotional Thinness**
+   Events are commented on, not deeply inhabited.
+   Psychological cost often feels shallow.
+
+3. **Structural Fragmentation**
+   Often reads like:
+
+   * Chronicle excerpt
+   * Saga insert
+   * Wikipedia chunk
+   * Harald commentary
+     rather than a fully shaped narrative.
+
+4. **Historical Flattening**
+   Secondary characters (Zoe, John, Tostig) sometimes reduced to caricature.
+
+---
+
+# What Version B Consistently Does
+
+### 🏛 Strengths
+
+1. **Cohesion**
+   Every chapter emphasizes:
+
+   * Clear arc
+   * Structured progression
+   * Integrated research
+
+2. **Thematic Control**
+   Recurring motifs across chapters:
+
+   * Gold as chain
+   * Power as proximity
+   * Violence as ritual
+   * Sea vs stone
+   * Myth vs state
+   * Exile → legitimacy → kingship
+
+3. **Political Realism**
+   Bureaucracy, logistics, co-rule, coinage, tolls, assemblies, succession —
+   all feel credible and lived-in.
+
+4. **Emotional Restraint**
+   Harald is observed rather than explained.
+   Tragedy accumulates rather than being declared.
+
+5. **Publishability**
+   Repeatedly described as:
+
+   * “Serious historical fiction”
+   * “Prestige historical novel”
+   * “Mature”
+   * “Narratively coherent”
+   * “Broadly viable”
+
+---
+
+### ❌ Recurring Critiques
+
+1. **Less Distinctive Voice**
+   Harald sometimes feels like a historical figure rather than a singular personality.
+
+2. **Emotional Distance**
+   Controlled prose can reduce rawness.
+
+3. **Occasional Academic Weight**
+   Footnotes and synthesis sometimes verge on dissertation tone.
+
+4. **Safer Formally**
+   Less daring structurally than Version A.
+
+---
+
+# How Different Readers Respond
+
+| Reader Type     | Usually Prefers                        | Why                                 |
+| --------------- | -------------------------------------- | ----------------------------------- |
+| History Nerd    | Version B                              | Better integration, less distortion |
+| Vikings Fan     | Version A                              | Swagger, myth, chaos                |
+| Literary Reader | Version B                              | Tonal discipline, thematic cohesion |
+| Casual Reader   | Version B                              | Clarity, flow                       |
+| Streaming Exec  | Version A energy / Version B structure |                                     |
+
+---
+
+# The Core Diagnosis
+
+Version A is:
+
+* Experimental
+* Charismatic
+* Self-aware
+* High-risk
+* Sometimes self-sabotaging
+
+Version B is:
+
+* Architected
+* Controlled
+* Thematically unified
+* Emotionally earned
+* Market-ready
+
+---
+
+# The Brutal Bottom Line
+
+If the goal is:
+
+* **Prestige historical novel** → Version B.
+* **Cult classic meta-historical experiment** → Version A.
+* **Long-term durability and broad readership** → Version B.
+* **Maximum voice and shock value** → Version A.
+
+---
+
+# The Repeated Editorial Recommendation
+
+Across chapters, the critiques converge on the same advice:
+
+> Combine Version B’s structural discipline
+> with Version A’s distinctive Harald voice.
+
+That hybrid would likely be stronger than either version alone.
+
+---
+
+
+</pre>
 </div>
 </body>
 </html>
