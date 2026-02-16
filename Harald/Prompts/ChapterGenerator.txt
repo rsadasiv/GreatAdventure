@@ -1,0 +1,230 @@
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 1 of Chapters_v2.txt reflected in Chapter_1_1030.html
+
+BOOK MODE generate CHAPTER 1
+
+Compare the stories contained in Chapter_1_1030.html and the text that you just generated.
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+- Useful background information/knowledge
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+-----
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 2 of Chapters_v2.txt reflected in Chapter_2_1032.html
+
+BOOK MODE generate CHAPTER 2
+
+Compare the stories contained in Chapter_2_1032.html and the text that you just generated.
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+- Useful background information/knowledge
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 3 of Chapters_v2.txt reflected in Chapter_3_1034.html
+
+BOOK MODE generate CHAPTER 3
+
+Compare the stories contained in Chapter_3_1034.html and the text that you just generated.
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+- Useful background information/knowledge
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 4 of Chapters_v2.txt reflected in Chapter_4_1043.html
+
+BOOK MODE generate CHAPTER 4
+
+Compare the stories contained in Chapter_4_1043.html and the text that you just generated.
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+- Useful background information/knowledge
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 5 of Chapters_v2.txt reflected in Chapter_5_1045.html
+
+BOOK MODE generate CHAPTER 5
+
+Compare the stories contained in Chapter_5_1045.html and the text that you just generated.
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+- Useful background information/knowledge
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 6 of Chapters_v2.txt reflected in Chapter_6_1046_1053.html
+
+BOOK MODE generate CHAPTER 6
+
+Compare the stories contained in Chapter_6_1046_1053.html and the text that you just generated.
+
+Provide useful background information/knowledge
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 7 of Chapters_v2.txt reflected in Chapter_7_1054.html
+
+BOOK MODE generate CHAPTER 7
+
+Compare the stories contained in Chapter_7_1054.html and the text that you just generated.
+
+Provide useful background information/knowledge
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 8 of Chapters_v2.txt reflected in Chapter_8_1055_1064.html
+
+BOOK MODE generate CHAPTER 8
+
+Editor mode. Compare the stories contained in Chapter_8_1055_1064.html and the text that you just generated.
+
+Provide useful background information/knowledge
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 9 of Chapters_v2.txt reflected in Chapter_9_1065.html
+
+BOOK MODE generate CHAPTER 9
+
+Editor mode. Compare the stories contained in Chapter_9_1065.html and the text that you just generated.
+
+Provide useful background information/knowledge
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better
+
+# MODE: EDITING You are editing the user's writing. Preserve their voice and intent while improving clarity, flow, and impact. 
+## Modes - NO REWRITE → Only critique and suggest changes in comments/bullets. 
+
+Do not output a full rewritten version. Are the elements specified in Chapter 10 of Chapters_v2.txt reflected in Chapter_10_1066.html
+
+BOOK MODE generate CHAPTER 10
+
+Editor mode. Compare the stories contained in Chapter_10_1066.html and the text that you just generated.
+
+Provide useful background information/knowledge
+
+Provide Model reader reaction
+- As a history nerd
+- As a fan of Vikings on Netflix
+- As a lit fic reader
+
+Provide a **diagnosis**:
+- What is working well (specific examples).
+- What is not working (specific examples).
+
+Provide a verdict:
+- Which one is better

@@ -1,0 +1,293 @@
+## **Introduction**
+The true story of Harald Harðráði: poet, adventurer, Captain of the Varangian Guard, King of Norway, Earl of Northumbria, and last of the Vikings.
+
+BOOK MODE — CHAPTER 1 GENERATION PROMPT
+Title: Chapter 1: 1030
+Subtitle: Destiny Awaits
+Length: 4000 words
+Geography: Ringarike → Oslo → Trondheim → Stiklestad -> Uppsala -> Novgorod
+Characters: Harald, Asta, Sigurd, Olaf, Voluspa
+Sources: Heimskringla, Poetic Edda, Adam of Bremen
+StoryArc: Act 1, exposition
+Objectives:
+  - In Ringarike, come of age
+  - Travel to Trondheim and gain honor by fighting for Olaf at the Battle of Stiklestad
+  - Travel to Uppsala and gain the blessings of Odin
+  - Travel to Novgorod to gain the hospitality of Yaroslav
+Story Beats:
+ - The Boy Who Would Be King
+  - Harald's family and background, foreshadow his destiny to be king.
+ - Life on the Farm
+  - Daily life in Ringarike. Farming, animal husbandry, pastoral, hunting, crafts. Family structures. Social structures in a farming village.
+ - Battle of Stiklestad
+  - War-arrow arrived calling men to fight for Olaf. Journey from Oslo to Trondheim. Battle scene, Olaf slain, Harald wounded, escapes with core band to foothills, retreat into forests.
+ - Message of the Runes
+  - Pagan conversion moment, Harald commits to Odin. Winter in Swedish uplands: skis, sleds, frozen rivers, hunger, men desert slowly.
+ - Ash tree in Uppsala
+  - Uppsala Freyr/Freyja fertility revels, blood sacrifice. Voluspa, Odin seeress Norn, receives Harald's prayers to Odin, sees his destiny, and pledges to be his spritual/sexual partner in his pagan religious journey/natural life. 
+Tropes:
+- Warrior childhood prophecy
+- Viking battles
+- Pagan vs. Christian cosmology
+- Sacred groves and human sacrifice
+- Exile as crucible
+- Sex + prophecy linkage
+- Odin worship
+- Uppsala temple
+- Ash tree
+- Bloody sacrificial rites
+- Seeress prophecy
+- Drinking, feasting
+
+BOOK MODE — CHAPTER 2 GENERATION PROMPT
+Title: Chapter 2: 1032
+Subtitle: Sold Down the River
+Length: 2500 words
+Geography: Novgorod → Kiev → Khortytsia
+Characters: Harald, Yaroslav, Ellisif, Svyatopolk, Voluspa, Ibn-Fadlan
+Sources: Heimskringla, Tale of Bygone Years, De Administrando Imperio, Risala, Poetic Edda
+StoryArc: Act 2, rising action, establish the stakes
+Objectives:
+ - Travel to Kiev and gain honor by fighting for Yaroslav
+ - Travel to Khortytsia and gain honor by killing Svyatopolk
+Story Beats:
+- The Hospitality of Yaroslav
+ - Arrival in Novgorod, Yaroslav's hospitality
+ - Princess Ellisif (young daughter of Yaroslav) observes them
+- Battle on the Ice
+ - Battle with Svyatopolk
+ - Battle with Pechenegs
+ - At spring, Yaroslav tells them to leave
+- Rapids and the River
+ - Dnieper travel
+ - Monoxyla 
+ - Barrages
+ - Portaging 
+- Ambush at the Portage
+ - Pecheneg ambush
+ - Swim to safety
+- The Island of Khortytsia
+ - Cock sacrifice
+ - Ibn-Fadlan
+ - Seeress prophecy
+Tropes:
+- Viking hospitality
+- Odin the one eyed stranger
+- Battle
+- Ships and boats, river travel
+- Drinking, feasting
+- Berserker trance
+- Bloody sacrificial rites
+- Seeress prophecy
+
+BOOK MODE — CHAPTER 3 GENERATION PROMPT
+Title: Chapter 3: 1034
+Subtitle: Born to the Purple
+Length: 2000 words
+Geography: Khortytsia -> Cherson -> Byzantium
+Characters: Harald, Bolli, Zoe, Julius, Theodora, John the Orphanotrophos, Romanos
+Sources: De Administrando Imperio, Heimskringla, Laxdoela Saga  Alexiad, Chronographia
+StoryArc: Act 2, rising action, establish the stakes
+Objectives:
+ - Travel to Byzantium and gain honor by becoming the leader of the Varagnian Guard
+ - In Byzantium gain status  by becoming the lover of Zoe
+Story Beats:
+- Golden Byzantium
+ - Arrival in Byzantium
+ - The harbor and naval technology/boat styles
+- The Varangian Guard
+ - Bolli is the head of the Varangian Guard. He recruits Harald.
+- Empress Zoe
+ - Porphyrogenita
+ - Constantine VIII
+- Consort and political enforcer
+ - Harald becomes Zoe's lover and a street level enforcer
+- John the Orphanotrophos
+Tropes:
+- Ships and boats, sea travel
+- Country bumpkin arrives at the capitol
+- Varangian Guard
+- Axe wielding mercenaries
+- Byzantine politics
+- Cougar Empress
+- Conniving Eunuch
+
+BOOK MODE — CHAPTER 4 GENERATION PROMPT
+Title: Chapter 4: 1043
+Subtitle: Byzantine Politics
+Length: 2700 words
+Geography: Byzantium
+Characters: Harald, Zoe, John the Orphanotrophos, Michael the Paphlagonian, Byzantine Emperor/Noblissimus
+Sources: Chronographia, Heimskringla
+StoryArc: Act 3, technical climax, a decision is taken
+Objectives:
+ - In Byzantium gain status by becoming an enforcer for John the Orphanotrophos
+ - In Byzantium gain honor by escaping from prision with the Varangian Guard
+Story Beats:
+- Long Live the King
+ - Zoe wants money and sex, John wants influence and power, let the scheming begin
+ - The Emperor is drowned in his bath while the Varangian Guard stands outside the door
+ - Plundering the royal residence
+- The Evidence Must Go
+ - Zoe and Michael turn on John
+ - John is blinded and imprisoned in Monobatae
+ - Theodora is exiled to a nunnery
+ - Michael turns on Zoe and winds up dead
+- The Power of the Mob
+ - Greens and Blues - factions erupt
+ - Royals are dragged through the streets
+ - Churches are desecrated, no refuge is safe
+ - The Emperor is blinded by Harald
+- Over the Iron Chain
+ - Harald decides his destiny is elsewhere, back in Norway
+ - Zoe imprisions Harald
+ - The Varangian Guard breaks Harald out of prison
+ - Harald escapes by getting his boat over the iron chain blocking the harbor
+Tropes:
+- Regicide
+- poluta-svarf/plunder
+- Byzantine politics
+- Mob rule
+- Blinding the king
+- Dungeon/prison
+- Escape over the iron chain
+
+BOOK MODE — CHAPTER 5 GENERATION PROMPT
+Title: Chapter 5: 1045
+Subtitle: The Treasure of Blachernae
+Length: 1500 words
+Geography: Byzantium -> Kiev -> Byzantium -> Cherson -> Kiev
+Characters: Harald, Yaroslav, Vladimir, Byzantine Emperor, Zoe, Ellisif
+Sources: Heimskringla, Chronographia, Tale of Bygone Years
+StoryArc: Act 3, technical climax, a decision is taken
+Objectives:
+ - In Byzantium gain wealth by stealing the gold in Blachernae Palace
+ - Travel to Kiev and gain status by marrying Ellisif
+Story Beats:
+- Yaroslav the Schemer
+ - Send Vladimir to Byzantium with a fleet as a distraction while Harald robs Blachernae Palace
+- War at Sea
+ - Rus'–Byzantine War
+ - Sea battle in the Propontis
+ - Greek fire
+- Goodbye to Zoe
+ - Harald says his last goodbye to Zoe Porphyrogenita
+- Looting the Palace
+ - Harald and the Varangian Guard loot Blachernae Palace
+- Achivement Unlocked
+ - Marriage to Ellisif
+Tropes:
+- Heist/Robbery
+- Ships and boats, sea battle
+
+BOOK MODE — CHAPTER 6 GENERATION PROMPT
+Title: Chapter 6: 1046-1064
+Subtitle: Destiny Achieved
+Length: 2500 words
+Geography: Kiev -> Oslo -> Baltic Sea trade routes -> North Sea trade routes -> North Atlantic trade routes
+Characters: Harald, Ellisif, Yaroslav, Voluspa
+Sources: Heimskringla, Adam of Bremen, Tale of Bygone Years, Poetic Edda
+StoryArc: Act 4, falling action, establish the consequences
+Objectives:
+ - Travel to Oslo and gain status by becoming King of Norway
+ - Travel Viking trade routes and gain wealth by raiding
+ - In Norway gain honor by performing kingly deeds
+Story Beats:
+- When He Died, It All Came To Me
+ - Return home to Norway with a fortune and a princess, become king
+- It's Good to be King
+ - Founding of Oslo
+ - Boat building technology
+ - Viking sailing and trade routes
+ - Icelandic skalds in the court
+- Death of Yaroslav
+ - Relationship with Ellisif
+ - What is your children's patrimony?
+- Baldr's Dreams
+ - Beatification of Olaf
+ - Seeress prophecy/the death of Baldr
+Tropes:
+- Gold arm rings as currency of power
+- Ships and boats, engineering
+- Viking sailing
+- Northern Lights
+- Icelandic skalds
+- Death of a father
+- A king's last wishes
+
+BOOK MODE — CHAPTER 7 GENERATION PROMPT
+Title: Chapter 7: 1065
+Subtitle: The Dog Who Caught the Car
+Length: 1500 words
+Geography: Lofoten
+Characters: Harald, Tostig, Harold Godwinson, William the Conqueror, Voluspa, Olaf
+Sources: Heimskringla, Wikipedia, Anglo Saxon Chronicle, Poetic Edda
+StoryArc: Act 5, resolution, accept the consequences
+Objectives:
+ - In Lofoton gain honor by deciding to invade England
+Story Beats:
+- A Lion In Winter
+ - Halogaland and the peaceful fjord
+- What Could Possibly Go Wrong?
+ - The political situation in England
+ - Tostig Godwinson's offer
+- A Doom Foretold
+ - Ragnarok
+ - Prophecies
+- Once More Into the Breach
+ - A fateful decision is taken and the dice are thrown one last time
+Tropes:
+- The old warrior seeking one last blaze of glory
+- Ignore every warning and go anyway
+
+BOOK MODE — CHAPTER 8 GENERATION PROMPT
+Title: Chapter 8: 1066
+Subtitle: Seven Feet of Earth
+Length: 4000 words
+Geography: Trondheim, North Sea, Orkney, Shetland, Northumberland, York, Stamford Bridge, Hastings
+Characters: Harald, Tostig, Harold Godwinson, William the Conqueror
+Sources: Heimskringla, Wikipedia, Anglo Saxon Chronicle
+Objectives:
+ - Travel to England and gain status by becoming King of England
+ - Travel to York and gain honor by fighting at the Battle of Stamford Bridge
+StoryArc: Act 5, resolution, accept the consequences
+Story Beats:
+- Halley's Comet
+ - Bayeux tapestry
+ - Omens
+- No Halting at Hjaltland
+ - Sail to Hjaltland
+ - Leave Ellisif and the girls behind
+- False hope at York
+ - Successful skirmish on the beach
+- Treachery at Stamford Bridge
+ - The forced march of Harold Godwinson
+- The Battle of Hastings
+ - The victory of William the Conqueror
+Tropes:
+- The comet / “long-haired star” as an omen
+- Bayeux tapestry
+- Ships and boats
+- Viking sea journeys
+- Treacherous or unreliable brothers
+- Heroic last stand
+- Berserker trance
+- Last Viking
+
+BOOK MODE — CHAPTER 9 GENERATION PROMPT
+Title: Chapter 9: 1067
+Subtitle: Afterwards
+Geography: 
+Characters: Harald, Olaf, Magnus
+Sources: Heimskringla
+StoryArc: Act 5, resolution, accept the consequences
+Story Beats:
+- The Legend Lives On
+ - Harald passes from person to legend
+Tropes:
+- The Last Viking
+
+
+
+
+
