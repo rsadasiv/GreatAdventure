@@ -155,10 +155,10 @@ Tropes:
 BOOK MODE — CHAPTER 5 GENERATION PROMPT
 Title: Chapter 5: 1045
 Subtitle: The Treasure of Blachernae
-Length: 1500 words
-Geography: Byzantium -> Kiev -> Byzantium -> Cherson -> Kiev
+Length: 3500 words
+Geography: Byzantium -> Kiev -> Venice -> Byzantium -> Cherson -> Kiev
 Characters: Harald, Yaroslav, Vladimir, Byzantine Emperor, Zoe, Ellisif
-Sources: Heimskringla, Chronographia, Tale of Bygone Years
+Sources: Heimskringla, Chronographia, Tale of Bygone Years, Choniates, Villehardouin
 StoryArc: Act 3, technical climax, a decision is taken
 Objectives:
  - In Byzantium gain wealth by stealing the gold in Blachernae Palace
