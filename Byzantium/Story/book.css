@@ -1,0 +1,229 @@
+/* ====================================
+   BOOK LAYOUT & TYPOGRAPHY
+   ==================================== */
+
+:root {
+  --page-width: 800px;
+  --page-margin: 2rem;
+  --text-color: #2c2c2c;
+  --text-secondary: #555;
+  --accent-color: #8b4513;
+  --border-light: #ddd;
+  --footnote-bg: #f5f5f0;
+}
+
+body {
+  font-family: 'Georgia', 'Garamond', serif;
+  line-height: 1.8;
+  color: var(--text-color);
+  background: white;
+  max-width: var(--page-width);
+  margin: var(--page-margin) auto;
+  padding: var(--page-margin);
+}
+
+/* ====================================
+   DIALOGUE / SCREENPLAY FORMATTING
+   ==================================== */
+
+.dialogue-block {
+  margin: 1.5rem 0;
+}
+
+/* Speaker name (character) */
+.speaker {
+  font-weight: bold;
+  color: var(--accent-color);
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+}
+
+/* Character name variant (all caps, optional) */
+.speaker.caps {
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+/* Dialogue line(s) following speaker */
+.dialogue {
+  margin-left: 1.5rem;
+  font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+/* Stage direction / action (optional) */
+.stage-direction {
+  margin-left: 1.5rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+/* Multi-speaker exchange (compact) */
+.scene {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-left: 3px solid var(--accent-color);
+  background: #fafaf8;
+}
+
+/* ====================================
+   FOOTNOTES & GLOSSES
+   ==================================== */
+
+/* Superscript reference anchor */
+sup.footnote-ref,
+sup.gloss-ref {
+  font-size: 0.75em;
+  vertical-align: super;
+}
+
+/* Inline gloss (hover tooltip style) */
+.gloss {
+  border-bottom: 1px dotted var(--accent-color);
+  cursor: help;
+  position: relative;
+}
+
+.gloss:hover::after {
+  content: attr(data-gloss);
+  position: absolute;
+  bottom: 1.5em;
+  left: 0;
+  width: max-content;
+  background: var(--footnote-bg);
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border-light);
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-style: italic;
+  color: var(--text-secondary);
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Footnote section (at bottom of page/chapter) */
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border-light);
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.footnote-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footnote-item {
+  margin-bottom: 0.75rem;
+}
+
+.footnote-num {
+  color: var(--accent-color);
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.footnote-text {
+  display: inline;
+  color: var(--text-secondary);
+}
+
+/* ====================================
+   HEADINGS & STRUCTURE
+   ==================================== */
+
+h1 {
+  font-size: 2.2em;
+  margin: 1.5em 0 0.5em 0;
+  color: var(--accent-color);
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.6em;
+  margin: 1.5em 0 0.75em 0;
+  color: var(--accent-color);
+  border-bottom: 1px solid var(--border-light);
+  padding-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin: 1.25em 0 0.5em 0;
+  color: var(--text-color);
+  font-weight: bold;
+}
+
+p {
+  margin: 0 0 1em 0;
+  text-align: justify;
+}
+
+/* ====================================
+   BLOCK ELEMENTS
+   ==================================== */
+
+/* Emphasized passages / epigraphs */
+.epigraph {
+  margin: 2rem 2rem;
+  padding: 1rem;
+  border-left: 3px solid var(--accent-color);
+  font-style: italic;
+  color: var(--text-secondary);
+  background: var(--footnote-bg);
+}
+
+/* Quotations */
+blockquote {
+  margin: 1.5rem 2rem;
+  padding-left: 1rem;
+  border-left: 4px solid var(--accent-color);
+  font-style: italic;
+  color: var(--text-secondary);
+}
+
+/* Horizontal break / scene separator */
+hr,
+.scene-break {
+  margin: 2rem 0;
+  border: none;
+  text-align: center;
+  color: var(--accent-color);
+}
+
+hr::after,
+.scene-break::after {
+  content: "* * *";
+  letter-spacing: 0.5em;
+  color: var(--accent-color);
+}
+
+/* ====================================
+   PRINT STYLING
+   ==================================== */
+
+@media print {
+  body {
+    max-width: 100%;
+    margin: 0;
+    padding: 1in;
+  }
+
+  .gloss:hover::after {
+    display: none; /* Hide hover glosses in print */
+  }
+
+  .scene-break {
+    page-break-inside: avoid;
+  }
+
+  h1, h2 {
+    page-break-after: avoid;
+  }
+}

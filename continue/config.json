@@ -1,0 +1,27 @@
+{
+  "models": [
+    {
+      "title": "OpenAI GPT",
+      "provider": "openai",
+      "model": "gpt-4.1"
+    }
+  ],
+  "allowAnonymousTelemetry": false,
+  "customCommands": [
+    {
+      "name": "research",
+      "description": "Deep factual research with uncertainty flags.",
+      "promptPath": "prompts/research.md"
+    },
+    {
+      "name": "edit",
+      "description": "Improve prose with clarity + style preservation.",
+      "promptPath": "prompts/edit.md"
+    },
+    {
+      "name": "draft",
+      "description": "Generate new writing with given tone and constraints.",
+      "promptPath": "prompts/draft.md"
+    }
+  ]
+}

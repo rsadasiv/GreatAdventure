@@ -1,0 +1,16 @@
+Instructions: |
+  When the user says "chapter X", output the following in order:
+    1. If the StoryPrompt contains a `text_file` field, load and print the contents of that file (path is relative to this YAML file).
+    2. Else if the StoryPrompt contains a `text` field, print the `text` field.
+    3. Print the `analysis` fields in this order: `summary`, `connections`, `implications`.
+    4. Print the `speculation` fields in this order: `next_steps`, `character_trajectories`, `world_relevance`.
+  Rules and notes:
+    - Never skip printing the text (loaded from file or embedded), even if it has been shown previously.
+    - If `text_file` is present but the file is missing or unreadable, print a clear warning and then fall back to the `text` field if available.
+    - Preserve original whitespace and line breaks from text files when printing their contents.
+Chapter:
+  - id: "1"
+  - title: "Maryam" 
+  - setting: "Dēmónēsoi, Byzantium, Ctesiphon, Kashgar"
+  - author: "Ram Sadasiv"
+  - text_file: "Maryam.txt"

@@ -1,0 +1,126 @@
+StoryPromptTemplateRules: |
+  When the user says "run storyprompt X", output the following in order:
+    1. If the StoryPrompt contains a `text_file` field, load and print the contents of that file (path is relative to this YAML file).
+    2. Else if the StoryPrompt contains a `text` field, print the `text` field.
+    3. Print the `analysis` fields in this order: `summary`, `connections`, `implications`.
+    4. Print the `speculation` fields in this order: `next_steps`, `character_trajectories`, `world_relevance`.
+  Rules and notes:
+    - Never skip printing the text (loaded from file or embedded), even if it has been shown previously.
+    - If `text_file` is present but the file is missing or unreadable, print a clear warning and then fall back to the `text` field if available.
+    - Honor the `display_order` entry for a StoryPrompt when present; otherwise use the order above.
+    - Treat `text_file` paths as relative to the YAML file's directory (commonly the `text/` folder in this project).
+    - Preserve original whitespace and line breaks from text files when printing their contents.
+Chapters:
+- id: "1"
+  title: "Story"
+  Cantos:
+    - id: "1"
+      title: "Maryam" 
+      setting: "Dēmónēsoi, Byzantium, Ctesiphon, Kashgar"
+      author: "Ram Sadasiv"
+      text_file: "Story/Maryam.txt"
+- id: "2"
+  title: "PrimarySources"
+  Cantos:
+  - id: "2"               
+    title: "Theodora"           
+    setting: "Byzantium"
+    author: "Procopius"
+    characters: "Theodora"
+    text_file: "PrimarySources/Theodora.txt"
+
+  - id: "3"               
+    title: "The Plague of Justinian"          
+    setting: "Byzantium"
+    author: "Procopius"
+    text_file: "PrimarySources/Plague.txt"
+
+  - id: "4"               
+    title: "Byzantine Economy"          
+    setting: "Byzantium"
+    author: "Ram Sadasiv"
+    text_file: "PrimarySources/ByzantineEconomy.txt"
+
+  - id: "5"               
+    title: "Bread and Circuses"          
+    setting: "Byzantium"
+    author: "Juvenal"
+    text_file: "PrimarySources/BreadAndCircuses.txt"
+
+  - id: "6"
+    title: "Nika Riots"
+    setting: "Byzantium"
+    author: "John Julius Norwich"
+    characters: "Theodora"
+    text_file: "PrimarySources/Nika.txt"
+
+  - id: "7"
+    title: "Nestorian Silkworm Smugglers"
+    setting: "Byzantium"
+    author: "wikipedia"
+    text_file: "PrimarySources/NestorianSilkwormSmugglers.txt"
+
+  - id: "8"
+    title: "Serinda"
+    setting: "Byzantium"
+    author: "Procopius"
+    text_file: "PrimarySources/Serinda.txt"
+
+  - id: "9"
+    title: "The Rise of Khosrow and Maurice"
+    setting: "Byzantium"
+    author: "Ferdowski"
+    text_file: "PrimarySources/RiseKhosrowAndMaurice.txt"
+
+  - id: "10"
+    title: "The Rise of Maurice and Khosrow"
+    setting: "Byzantium"
+    author: "Simocatta"
+    text_file: "PrimarySources/RiseMauriceAndKhosrow.txt"
+
+  - id: "11"
+    title: "The Fall of Maurice and Khosrow"
+    setting: "Byzantium"
+    author: "John Julius Norwich"
+    text_file: "PrimarySources/FallMauriceAndKhosrow.txt"
+
+  - id: "12"
+    title: "The Fall of Khosrow and Maurice"
+    setting: "Byzantium"
+    author: "Ferdowski"
+    text_file: "PrimarySources/FallKhosrowAndMaurice.txt"
+
+- id: "3"
+  title: "World"
+  Cantos:
+  - id: "13"
+    title: "Byzantines and Persians"
+    setting: "Byzantium"
+    author: "Strategikon"
+    text_file: "World/ByzantinesAndPersians.txt"        
+
+  - id: "14"
+    title: "Byzantines and Gokturks"
+    setting: "Byzantium"
+    author: "Strategikon"
+    text_file: "World/ByzantinesAndGokturks.txt"      
+
+  - id: "15"
+    title: "Byzantines and T'ang"
+    setting: "Byzantium"
+    author: "Simocatta"
+    text_file: "World/ByzantinesAndTang.txt"
+
+  - id: "16"
+    title: "Byzantines and Guptas"
+    setting: "Byzantium"
+    author: "Simocatta"
+    text_file: "World/ByzantinesAndGuptas.txt"
+
+- id: "4"
+  title: "History"
+  Cantos:
+  - id: "17"
+    title: "Byzantine Empire"
+    author: "wikipedia"
+    text_file: "History/Byzantium.txt"
